@@ -1,1 +1,1 @@
-# Machine Learning algorithm with R and Caret
+# Machine Learning with R, ggplot2 and Caret
